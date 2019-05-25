@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=eudADPfTWiE
 
 + Informatical / Infographical Pitch Slide Deck (Templ.ate customized for customer / company in startup pitch presentations) -
 
+>
 1.  Who  (who is the presenter?  who are producers, product, customers/consumers, market, investors?)
 2.  Why  (the unique, secret truth)
 3.  What (market, product)
