@@ -22,3 +22,7 @@ Add demo, videos, visualizations, tables, lists, road maps, bubble market cap si
 
 + Slideshare - Passive Linkedin powerpoint asset (not the best)
 https://www.slideshare.net/
+
+https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
+
+https://www.slideshare.net/stsanto/the-back-of-the-napkin-dan-roam
