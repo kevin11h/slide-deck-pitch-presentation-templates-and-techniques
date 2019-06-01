@@ -26,3 +26,27 @@ https://www.slideshare.net/
 https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
 
 https://www.slideshare.net/stsanto/the-back-of-the-napkin-dan-roam
+
+
+# Guy-Kawaski-s-10-startup-slides
+
+slide show
+
+https://www.slideshare.net/huer1278ft/the-art-of-the-start-37633
+
+https://www.slideshare.net/GuyKawasaki
+
+book
+
+https://guykawasaki.com/books/the-art-of-the-start/
+
+Title slide
+Problem
+Solution
+Business model
+Underlying magic
+Marketing and sales
+Competition
+Management team
+Financial projections and key metrics
+Current status, accomplishments to date, timeline, and use of funds
